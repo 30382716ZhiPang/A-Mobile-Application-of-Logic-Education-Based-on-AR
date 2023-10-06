@@ -1,5 +1,4 @@
 # A Mobile Application of Logic Education Based on AR
-
 ## Abstract
   With the rapid development of augmented reality technology in recent years, the application of mobile Ar has become more and more extensive. This paper introduces an AR mobile application based on AR Foundation which aims to popularize AR life style, let users experience the fun of AR. The project mainly through scanning the real plane, after the recognition is successful, the virtual object can be placed on the real world plane, and then the function operation can be carried out by clicking the corresponding button on the mobile phone screen, so as to realize the logic conversion. The original intention of the project is to let children combine hands-on ability and visual effects, so as to better realize the multi-dimensional development of intelligence.
 
