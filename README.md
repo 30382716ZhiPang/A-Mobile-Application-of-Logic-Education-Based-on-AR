@@ -75,3 +75,6 @@ REFERENCES
 [3]	An AR Benchmark System for Indoor Planar Object Tracking. Ziming Wu ; Jiabin Guo ; Shuangli Zhang ; Chen Zhao ; Xiaojuan Ma. 2019 IEEE International Conference on Multimedia and Expo (ICME).
 
 [4]	A mobile visual programming system for Android smartphones and tablets. Wolfgang Slany. 2012 IEEE Symposium on Visual Languages and Human-Centric Computing (VL/HCC).
+
+## Precautions
+The copyright of the project belongs to the team. Secondary development or commercial use is prohibited without explicit authorization. This includes the use and distribution of source code, documentation, graphics, audio and other related materials. Violation of this provision may result in legal consequences. Please be sure to comply with intellectual property laws and related regulations.
