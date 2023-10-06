@@ -1,0 +1,19 @@
+{
+    "name": "SenseAR_Example",
+    "references": [
+        "Unity.XR.ARFoundation",
+        "Unity.XR.ARStand",
+        "Unity.XR.ARSubsystems"
+    ],
+    "optionalUnityReferences": [],
+    "includePlatforms": [
+        "Android",
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": true,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": []
+}
