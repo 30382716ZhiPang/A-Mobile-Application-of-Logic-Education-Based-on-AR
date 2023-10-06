@@ -41,6 +41,31 @@ Fig. 2.	System component
 In this project, the "code blocks" of conditions and all behaviors make use of task tasks thrown to threads. However, compared with thread pool, tasks require less overhead, and the control of "code blocks" in the project is more accurate and controllable. Each behavior "code block" is executed more than once, which means that the "code block" should be encapsulated and saved in the list by the way of delegation. Then, the unit's update function is used to judge whether there are tasks and continue to execute them. Thus, the thrown sub threads are returned to the unity main thread, and the behaviors in each role "code block" are gradually completed.
 ACKNOWLEDGMENT
 
+## Installation
+When running an app integrated with the SDK, you need to ensure that SenseAR or OPPO ARUnit is installed on the device. As above
+As shown in the table, some Xiaomi models and OPPO models have SenseAR or OPPO ARUnit pre-installed. And not
+Pre-installed devices require manual installation of SenseAR. SenseAR is an apk file available on the SenseTime developer website
+Download on. Since the integrated features are constantly updated, for developers who want to experience new features, we recommend using or replacing the pre-installed version
+This upgrade to the latest SenseAR. Specific precautions are as follows:
+① The name of Xiaomi’s pre-installed version of SenseAR in the application settings is ARServer, and the name of OPPO’s pre-installed version of SenseAR is
+The name is ARUnit. The pre-installed version is relatively old and only contains the SLAM function. If you want to use more features, please update to the new version of SenseAR.
+② The new version of SenseAR is continuously updated on the SenseTime developer website. After installation, the name of the application list is SenseAR. Use the new version.
+The pre-installed version of SenseAR needs to be uninstalled first. The two cannot coexist, otherwise the application will not run properly.
+③ In order to use the SenseAR SDK normally, you need to open the permission in SenseAR to allow other applications to start automatically, such as
+As in OPPO mobile phones:
+a) Application management->SenseAR->Allow other applications to start automatically,
+b) Application Management->SenseAR->Power Consumption Protection->Allow background running. This step can be done after the subsequent SenseAR SDK upgrade.
+to omit.
+
+## Special thanks to Unity Technologies
+<p align="center">
+  <img src ="https://github.com/30382716ZhiPang/AMobileApplicationofLogicEducationBasedonAR/assets/91645493/48ee2c11-6b7d-4485-9b3e-9d26d4ad7db4"  style="height:600px; width: auto"; alt="Sublime's custom"/>
+<p>
+  
+<p align="center">
+Fig. 3.	Award certificate
+<p>
+
 This work was supported by the 20th ChinaVR conference and Connected Universal Experiences Laboratories.
 REFERENCES
 
