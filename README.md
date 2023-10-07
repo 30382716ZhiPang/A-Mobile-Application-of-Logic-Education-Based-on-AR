@@ -6,7 +6,7 @@
   Human–Computer Interaction,AR,Unity,Education,Application,AR Foundation 
 
 <p align="center">
-  <img src ="https://github.com/30382716ZhiPang/AMobileApplicationofLogicEducationBasedonAR/assets/91645493/6594410e-8821-4f57-85fd-b0cdafb906ea" style="height:500px; width: auto"; alt="Sublime's custom"/>
+  <img src ="https://github.com/30382716ZhiPang/AMobileApplicationofLogicEducationBasedonAR/assets/91645493/6594410e-8821-4f57-85fd-b0cdafb906ea" style="width: 800px"; alt="Sublime's custom"/>
 <p>
  
 <p align="center">
@@ -29,7 +29,7 @@ This mode of operation is different from the traditional visual programming for 
 The system is divided into three modules: build scene, set parameters and run the program. Players first enter the main interactive interface, identify the plane through the scan plane button, click the select model button to select the character object and place it in the virtual plane, and then click the right scroll bar to select the "condition and behavior" module of the role, and set the conditions to determine the required parameters in the setting parameter button Finally, click the run program button, and the program will start to execute the code logic of all roles.
  
 <p align="center">
-  <img src ="https://github.com/30382716ZhiPang/AMobileApplicationofLogicEducationBasedonAR/assets/91645493/3d8ef4d4-e098-4c9b-b013-757af878912d"  style="height:600px; width: auto"; alt="Sublime's custom"/>
+  <img src ="https://github.com/30382716ZhiPang/AMobileApplicationofLogicEducationBasedonAR/assets/91645493/3d8ef4d4-e098-4c9b-b013-757af878912d"  style="width: 420px"; alt="Sublime's custom"/>
 <p>
 
 <p align="center">
@@ -58,7 +58,7 @@ to omit.
 
 ## Special thanks to Unity Technologies
 <p align="center">
-  <img src ="https://github.com/30382716ZhiPang/AMobileApplicationofLogicEducationBasedonAR/assets/91645493/48ee2c11-6b7d-4485-9b3e-9d26d4ad7db4"  style="height:600px; width: auto"; alt="Sublime's custom"/>
+  <img src ="https://github.com/30382716ZhiPang/AMobileApplicationofLogicEducationBasedonAR/assets/91645493/48ee2c11-6b7d-4485-9b3e-9d26d4ad7db4"  style="width: 420px"; alt="Sublime's custom"/>
 <p>
   
 <p align="center">
